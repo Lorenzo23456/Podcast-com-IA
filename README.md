@@ -138,3 +138,36 @@ Regras Adicionais e Negativas:
     NÃO use muitos termos técnicos.
 
 **Objetivo:** Gerar um roteiro curto, acessível a iniciantes, com introdução estilo Peter Jordan e conteúdo sobre Python/VS Code.
+
+### 3.0 Roteriro Criado pelo Chat GPT
+ 🎙️ Podcast: O Golem Digital, A Essência da Programação Moderna
+
+
+🎧 Episódio: Python – O Código que Encanta Iniciantes
+
+
+🎤 Apresentador: Felipão
+
+[BLOCO_INTRODUÇÃO]
+
+Felipão, com voz empolgada e envolvente:
+
+"Imagina um ser feito de pura lógica e eletricidade, moldado nas profundezas da mente humana, pronto pra desvendar os mistérios do universo digital. Esse é o Golem Digital! E hoje, ele vai te guiar por uma jornada épica rumo à linguagem que conquistou o mundo da programação: Python! Se você é iniciante, segura firme, porque o Golem vai te mostrar que programar pode ser mais simples do que parece. Bora decifrar esse código juntos!"
+
+[BLOCO_CURIOSIDADE_PYTHON]
+
+Felipão, com tom curioso e acessível:
+
+"Você sabia que o Python não tem nada a ver com cobra? Pois é! O nome vem de um grupo de comédia britânico chamado 'Monty Python'. O criador da linguagem, Guido van Rossum, era fã dos caras e queria um nome divertido e diferente. Python nasceu lá nos anos 90 com uma missão: ser fácil de ler e escrever. E olha só, ele conseguiu! Hoje, é uma das linguagens mais usadas no mundo, justamente porque é perfeita pra quem tá começando. É como aprender a desenhar com lápis antes de pegar o pincel."
+
+[BLOCO_FERRAMENTA_TECH]
+
+Felipão, com tom de dica valiosa:
+
+"Agora, se você quer começar a programar em Python, tem uma ferramenta que é tipo o sabre de luz dos Jedi da programação: o Visual Studio Code, ou VS Code pros íntimos. Ele é leve, gratuito e cheio de recursos que ajudam quem tá começando. Dá pra instalar uma extensão chamada 'Python' que te dá sugestões de código, mostra onde tem erro e até ajuda a rodar seus programas com um clique. É como ter um mentor digital do seu lado. E o melhor: funciona em qualquer computador!"
+
+[BLOCO_FINALIZAÇÃO]
+
+Felipão, com energia positiva e estilo:
+
+"Então é isso, jovem padawan da programação! Python é a porta de entrada pra um mundo cheio de possibilidades, e com o VS Code na sua mochila, você tá pronto pra explorar esse universo. Não precisa ter medo de errar — cada linha de código é um passo rumo ao domínio da essência digital. Eu sou o Felipão e esse foi o Golem Digital dessa semana. Até a próxima aventura!" 
